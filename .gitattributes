@@ -1,0 +1,13 @@
+# Automatically normalize text files
+* text=auto
+
+# Force Unix-style line endings for shell scripts
+*.sh text eol=lf
+
+# Force Windows-style line endings for batch scripts
+*.cmd text eol=crlf
+
+# Keep binary files as-is
+*.png binary
+*.jpg binary
+*.zip binary
