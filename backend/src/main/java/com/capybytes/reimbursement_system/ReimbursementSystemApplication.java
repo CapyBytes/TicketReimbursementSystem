@@ -1,4 +1,4 @@
-package com.CapyBytes.reimbursement_system;
+package com.capybytes.reimbursement_system;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
